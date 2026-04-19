@@ -21,7 +21,9 @@ I design and build systems where correctness, reliability, and scale matter — 
 - Integrating external payment platforms (Adyen, Stripe) with strong guarantees around correctness and reconciliation  
 
 
-## Tech Stack
+## Systems & Technologies
+
+I focus on system design and architecture; the technologies below reflect tools I’ve used across different systems.
 
 **Languages**
 - TypeScript, Java, Python
