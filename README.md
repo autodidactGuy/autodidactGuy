@@ -4,7 +4,6 @@ Backend Engineer specializing in financial systems, distributed architecture, an
 
 I design and build systems where correctness, reliability, and scale matter — payments infrastructure, data pipelines, and backend services operating under real-world constraints.
 
----
 
 ## Focus Areas
 
@@ -13,7 +12,6 @@ I design and build systems where correctness, reliability, and scale matter — 
 - Data pipelines (large-scale ingestion, transformation, and processing)
 - Backend systems for AI-assisted workflows
 
----
 
 ## What I Work On
 
@@ -22,7 +20,6 @@ I design and build systems where correctness, reliability, and scale matter — 
 - Handling system reliability concerns: retries, idempotency, consistency, and failure recovery  
 - Integrating external payment platforms (Adyen, Stripe) into backend systems with strong guarantees around correctness and reconciliation  
 
----
 
 ## Tech Stack
 
@@ -48,7 +45,6 @@ I design and build systems where correctness, reliability, and scale matter — 
 **DevOps**
 - Docker
 
----
 
 ## Current Focus
 
@@ -56,13 +52,11 @@ I design and build systems where correctness, reliability, and scale matter — 
 - Designing scalable import pipelines for high-volume data ingestion  
 - Exploring AI-assisted backend workflows for data processing and analysis  
 
----
 
 ## Selected Work
 
 Pinned repositories below highlight system design, data processing, and backend architecture.
 
----
 
 ## Links
 
@@ -70,7 +64,6 @@ Pinned repositories below highlight system design, data processing, and backend 
 - LinkedIn: https://linkedin.com/in/autodidactGuy  
 - GitHub: https://github.com/autodidactGuy  
 
----
 
 ## Notes
 
